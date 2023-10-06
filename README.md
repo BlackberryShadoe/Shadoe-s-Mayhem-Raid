@@ -2,7 +2,7 @@
 ### Name: Shadoe's Mayhem Raid
 #### Version: 1.0.0 - FINAL
 ### Author: BlackberryShadoe
-##### Contact: BlackBerryShadoe on discord
+##### Contact: BlackBerryShadoe on discord, join my server here: https://discord.com/invite/uNmYkvaT78
 ##### Credits: SkruntSkrunt, Grimm, SSpyR, Apocalyptech, TheGigaMaster, EpicNNG, CZ47, Freezer,
 ##### Poïpoï, Lonemasterino, niol, Phenom, ZetaDaemon, 10 FPSs, Novenic, Elektrohund, lollixlii, Bra2ha,
 ##### Nexus-Mistress, Erthwormsam, apple1417, TheNiTrex, Aaron0000, Stygian Emperor, RadiantArin
