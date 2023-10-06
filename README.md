@@ -67,7 +67,8 @@
 ##### - enabling Cartel Event enemies to spawn in the arms race map (works about 10% of the time)
 ##### - the addition of "classic" loot beams that replicate the look of loot in borderlands 2
 ##### - better loot odds from area challenge chests and final extract station expanded to send more items
-##### - FFYL Time extended from default 12 seconds to 45 seconds to compensate for no guardian rank perks 
+##### - FFYL Time extended from default 12 seconds to 45 seconds to compensate for no guardian rank perks
+##### - enemies get 35% tougher, instead of the default 20%, every time the Murdercane moves
 ##### This is designed to be playable solo or with friends (co-op is HIGHLY recommended)
 ##### WHEN STARTING A RUN, it is HIGHLY recommended to start with some "starter" gear using
 ##### the VAULT CARDS: The Super Soldier shield, Pyroburst grenade, Overclocked Troubleshooter, and
