@@ -1,2 +1,2 @@
-##### Version 1.0.0
-##### First complete version released on 10/??/23
+##### Version 1.0.0 - 10/??/23
+##### First version released
