@@ -65,7 +65,7 @@
 ##### - removed heavy weapon penalty and player self-splash damage (except Backburner child projectiles)
 ##### - non-elemental damage is now more balanced, with enhancements to elemental DoT damage
 ##### - enabling Cartel Event enemies to spawn in the arms race map (works about 10% of the time)
-##### - the addition of "classic" loot beams that replicate the look of loot in borderlands 2
+##### - the addition of "classic" loot beams that replicate the look of loot in Borderlands 2
 ##### - better loot odds from area challenge chests and final extract station expanded to send more items
 ##### - FFYL Time extended from default 12 seconds to 45 seconds to compensate for no guardian rank perks
 ##### - enemies get 35% tougher, instead of the default 20%, every time the Murdercane moves
