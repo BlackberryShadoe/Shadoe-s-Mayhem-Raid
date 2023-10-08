@@ -173,6 +173,8 @@
 ##### - the damage buff on the NightHawkin seems to have made the burst-fire mode display 0-burst,
 ##### instead of 4-burst which makes it full-auto even though the weapon says that it's burst-fire
 #####
+##### - the damage buff on the Hornet seems to only affect the Primary Firing Mode
+#####
 ##### - the damage buff on the Ruby's Wrath seems to only really work right when the tracker is active
 #####
 ##### - the damage buff on the S3RV-8OS-EXECUTE seems to only work right when spamming reloads
