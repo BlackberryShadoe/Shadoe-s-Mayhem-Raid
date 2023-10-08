@@ -57,7 +57,7 @@
 ##### removing xp bar, improved photo mode, no loyalty reward notifications, etc.
 ##### - various changes to enemy/player movement mechanics and enemy weapon stats
 ##### - increased ammo carry count, unlimited backpack and bank capacity expanded to 9999
-##### - increased xp gains to enable a lvl 13 starter run to reach lvl 72 before end of run
+##### - increased xp gains to enable a lvl 13 starter character to reach lvl 72 before end of run
 ##### - added the ability to use arms race gear during the run on the arms race map
 ##### - Customized the map and fast travel station to include name of mod and new description
 ##### - fixed some weapons/gear to be able to drop with an anointment since they now drop on this map
