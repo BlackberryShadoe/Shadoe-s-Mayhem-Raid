@@ -57,7 +57,7 @@
 ##### removing xp bar, improved photo mode, no loyalty reward notifications, etc.
 ##### - various changes to enemy/player movement mechanics and enemy weapon stats
 ##### - increased ammo carry count, unlimited backpack and bank capacity expanded to 9999
-##### - increased xp gains to enable a lvl 13 starter character to reach lvl 72 before end of run
+##### - increased xp gains to enable a New Game character to reach lvl 72 before end of run
 ##### - added the ability to use arms race gear during the run on the arms race map
 ##### - Customized the map and fast travel station to include name of mod and new description
 ##### - fixed some weapons/gear to be able to drop with an anointment since they now drop on this map
@@ -77,7 +77,7 @@
 #####
 #####
 ##### This is designed to be played with a level 72 character on Mayhem 10/11, however is also a LOT of fun
-##### if played by host with a modded character that is at level 13, but has mayhem unlocked...
+##### if played by host with a New Game character that is now available to allow mayhem to be unlocked...
 #####
 #####
 #####
@@ -179,7 +179,7 @@
 #####
 ##### - the damage buff on the S3RV-8OS-EXECUTE seems to only work right when spamming reloads
 #####
-##### - when doing a lvl 13 starter run, some of the passive percentages on some artifacts and class mods
+##### - when doing a New Game run, some of the passive percentages on some artifacts and class mods
 ##### show a NEGATIVE value and this is NOT a graphical glitch. Most artifacts are not suppose to be able
 ##### to drop below lvl 27, which is where their "baseline" starts, so gear at lower levels is impacted
 ##### negatively because of this but still drops since I had to make changes to level requirements
